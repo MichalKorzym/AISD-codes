@@ -1,0 +1,30 @@
+
+Wilno 0 Uciana 1 97
+
+Wilno 0 Mariampol 2 136
+
+Wilno 0 Kowno 3 110
+
+Uciana 1 Poniewież 4 93
+
+Mariampol 2 Kowno 3 57
+
+Kowno 3 Szawle 5 145
+
+Poniewież 4 Szawle 5 80
+
+Szawle 5 Taurogi 6 102
+
+Szawle 5 Klajpeda 7 155
+
+Szawle 5 Butynga 8 148
+
+Taurogi 6 Klajpeda 7 100
+
+Klajepda 7 Butynga 8 43
+
+
+
+
+
+

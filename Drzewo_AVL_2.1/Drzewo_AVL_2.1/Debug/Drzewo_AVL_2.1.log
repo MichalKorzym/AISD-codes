@@ -1,0 +1,4 @@
+﻿  AVL_TREE.cpp
+C:\Users\korzy\Desktop\Michał_Korzym_GA01\Drzewo_AVL_2.1\Drzewo_AVL_2.1\AVL_TREE.cpp(464,6): warning C4101: "czas_zaw": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\korzy\Desktop\Michał_Korzym_GA01\Drzewo_AVL_2.1\Drzewo_AVL_2.1\AVL_TREE.cpp(460): warning C4715: "findSurname”: niewszystkie ścieżki kodu zwracają wartość
+  Drzewo_AVL_2.1.vcxproj -> C:\Users\korzy\Desktop\Michał_Korzym_GA01\Drzewo_AVL_2.1\Debug\Drzewo_AVL_2.1.exe

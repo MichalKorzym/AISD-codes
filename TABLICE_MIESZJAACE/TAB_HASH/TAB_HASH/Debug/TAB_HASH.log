@@ -1,0 +1,7 @@
+﻿  Źródło.cpp
+C:\Users\korzy\Desktop\TABLICE_MIESZJAACE\TAB_HASH\TAB_HASH\Źródło.cpp(36,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\korzy\Desktop\TABLICE_MIESZJAACE\TAB_HASH\TAB_HASH\Źródło.cpp(134,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\korzy\Desktop\TABLICE_MIESZJAACE\TAB_HASH\TAB_HASH\Źródło.cpp(136,10): warning C4101: "start": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\korzy\Desktop\TABLICE_MIESZJAACE\TAB_HASH\TAB_HASH\Źródło.cpp(140,8): warning C4101: "czas": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\korzy\Desktop\TABLICE_MIESZJAACE\TAB_HASH\TAB_HASH\Źródło.cpp(136,17): warning C4101: "koniec": lokalna zmienna, do której nie istnieje odwołanie
+  TAB_HASH.vcxproj -> C:\Users\korzy\Desktop\TABLICE_MIESZJAACE\TAB_HASH\Debug\TAB_HASH.exe
